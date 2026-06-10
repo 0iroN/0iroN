@@ -16,6 +16,8 @@ I'm a self-taught developer who enjoys taking an idea and turning it into someth
 
 ### What I'm building
 
+- **[pulse](https://github.com/0iroN/pulse)** — A tiny, friendly terminal dashboard for your machine's vitals: CPU, memory, disk, uptime and temperature.
+- **[coinpeek](https://github.com/0iroN/coinpeek)** — A zero-dependency CLI that peeks at crypto prices: 24h/7d change and market cap in one color-coded table.
 - **Gem Scanner** — A narrative-driven scanner that hunts for high-potential, low-cap crypto coins. It pulls market data from CoinGecko and then scores each token with an LLM.
 - **Crypto trading automation** — Algorithmic trading strategies running on top of Freqtrade.
 - **Aquarium Monitor** — A hardware project using an ESP32 and sensors to track aquarium conditions in real time.
