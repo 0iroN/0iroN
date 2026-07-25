@@ -14,11 +14,22 @@
 
 I'm a self-taught developer who enjoys taking an idea and turning it into something real — whether that's a web app, a trading bot, or a circuit on my desk. My work spans **web development**, **embedded systems & IoT**, and **Linux / DevOps**. I write mostly Python and JavaScript, run everything in Docker, and love building things I can actually touch.
 
-### What I'm building
+### Open-source projects
 
-- **[pulse](https://github.com/0iroN/pulse)** — A tiny, friendly terminal dashboard for your machine's vitals: CPU, memory, disk, uptime and temperature.
+**Terminal tools**
+- **[pulse](https://github.com/0iroN/pulse)** — A tiny terminal dashboard for your machine's vitals: CPU, memory, disk, uptime and temperature.
 - **[coinpeek](https://github.com/0iroN/coinpeek)** — A zero-dependency CLI that peeks at crypto prices: 24h/7d change and market cap in one color-coded table.
 - **[upcheck](https://github.com/0iroN/upcheck)** — A zero-dependency uptime checker: HTTP status, response time and SSL expiry for all your sites at once.
+
+**Self-hosted web apps**
+- **[mdconvert](https://github.com/0iroN/mdconvert)** — Turns links and files (video, audio, PDF, images) into clean Markdown, with Whisper transcription and OCR. FastAPI + Docker.
+- **[igdownloader](https://github.com/0iroN/igdownloader)** — A small self-hosted downloader for YouTube and Instagram videos (or audio as MP3/M4A). Flask + yt-dlp.
+
+**Mobile**
+- **[videoplayer](https://github.com/0iroN/videoplayer)** — *Oynatıcı*, an offline, plays-everything Android video player built on libVLC, with an AMOLED dark UI and gesture controls.
+
+### Also building
+
 - **Gem Scanner** — A narrative-driven scanner that hunts for high-potential, low-cap crypto coins. It pulls market data from CoinGecko and then scores each token with an LLM.
 - **Crypto trading automation** — Algorithmic trading strategies running on top of Freqtrade.
 - **Aquarium Monitor** — A hardware project using an ESP32 and sensors to track aquarium conditions in real time.
