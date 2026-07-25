@@ -18,14 +18,16 @@ I'm a self-taught developer who enjoys taking an idea and turning it into someth
 
 **Terminal tools**
 - **[pulse](https://github.com/0iroN/pulse)** — A tiny terminal dashboard for your machine's vitals: CPU, memory, disk, uptime and temperature.
-- **[coinpeek](https://github.com/0iroN/coinpeek)** — A zero-dependency CLI that peeks at crypto prices: 24h/7d change and market cap in one color-coded table.
+- **[dockpeek](https://github.com/0iroN/dockpeek)** — A zero-dependency Docker dashboard: status, health, ports and resource use for local or remote containers.
 - **[upcheck](https://github.com/0iroN/upcheck)** — A zero-dependency uptime checker: HTTP status, response time and SSL expiry for all your sites at once.
+- **[coinpeek](https://github.com/0iroN/coinpeek)** — A zero-dependency CLI that peeks at crypto prices: 24h/7d change and market cap in one color-coded table.
 
 **Self-hosted web apps**
 - **[mdconvert](https://github.com/0iroN/mdconvert)** — Turns links and files (video, audio, PDF, images) into clean Markdown, with Whisper transcription and OCR. FastAPI + Docker.
 - **[igdownloader](https://github.com/0iroN/igdownloader)** — A small self-hosted downloader for YouTube and Instagram videos (or audio as MP3/M4A). Flask + yt-dlp.
 
-**Mobile**
+**Hardware & mobile**
+- **[trvision](https://github.com/0iroN/trvision)** — Streams my desktop to Thermalright Vision USB displays without the vendor's software, straight over WinUSB.
 - **[videoplayer](https://github.com/0iroN/videoplayer)** — *Oynatıcı*, an offline, plays-everything Android video player built on libVLC, with an AMOLED dark UI and gesture controls.
 
 ### Also building
